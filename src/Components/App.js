@@ -1,6 +1,5 @@
 import Main from "./Main";
 import { connect } from "react-redux";
-import { func } from "prop-types";
 import { bindActionCreators } from "redux";
 import * as actions from "../redux/actions";
 import { withRouter } from "react-router";

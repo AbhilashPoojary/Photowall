@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Photowall from "./PhototoWall";
 import AddPhoto from "./AddPhoto";
 import { Route, Link } from "react-router-dom";
-import { removePost } from "../redux/actions";
 import Single from "./Single";
 
 class Main extends Component {
